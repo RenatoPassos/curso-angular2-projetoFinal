@@ -3,6 +3,9 @@
 
 # Dependências do projeto (libraries)
 /node_modules/
+
+# Os arquivos compilados do TypeScript são colocados aqui:
+/app/target/
  
 # Arquivos de Log
 npm-debug.log
